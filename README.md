@@ -1,2 +1,2 @@
-# Das ist mein neues Repo! Das ist genau so!
+# Das ist mein neues Repo! Coole Sache!
 

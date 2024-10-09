@@ -1,1 +1,1 @@
-# Das ist mein neues Repo!
+# Das ist mein neues Repo! Coole sache!

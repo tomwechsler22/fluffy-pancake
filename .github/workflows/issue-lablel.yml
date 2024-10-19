@@ -14,4 +14,4 @@ jobs:
         uses: andymckay/labeler@master
         with:
           add-lables: "New"
-          repo-token: ${{ secret.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
